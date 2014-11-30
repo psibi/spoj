@@ -1,0 +1,2 @@
+Spoj Algorithms in Haskell
+
